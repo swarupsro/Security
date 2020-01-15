@@ -5,7 +5,7 @@
     <img src="https://cdn0.iconfinder.com/data/icons/cybersecurity-glyph-silhouettes/300/22119111Untitled-3-512.png" alt="Logo" width="80" height="80">
    </a>
 
-  <h2> align="center">Threat Defence</h2>
+  <h2> <align="center">Threat Defence</h2>
 
   <p align="center">
    This repository is intended for Security and Privacy : )
