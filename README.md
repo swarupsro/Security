@@ -8,7 +8,7 @@
   <h3 align="center">Defends</h3>
 
   <p align="center">
-   This repository is intended just for supporting & helping me during my Penetration Testing : )
+   This repository is intended for security and privacy : )
     <br />
     <a href="https://github.com/sarathlalup/Cyber-security/blob/master/Explore%20other%20resources.md"><strong>Explore other resources  »</strong></a>
     <br />
