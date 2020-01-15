@@ -8,7 +8,7 @@
   <h3 align="center">Threat Defence</h3>
 
   <p align="center">
-   This repository is intended for security and privacy : )
+   This repository is intended for Security and Privacy : )
     <br />
     <a href="https://github.com/sarathlalup/Cyber-security/blob/master/Explore%20other%20resources.md"><strong>Explore other resources  »</strong></a>
     <br />
