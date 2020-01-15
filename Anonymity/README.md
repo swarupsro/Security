@@ -1,7 +1,7 @@
 # Anonymity
 
 * ##  [ Dark Web]( )
-   #### + [     Accessing the Dark Net]( )
+   #### + [     Accessing the Dark Web]( )
 * ##  [ Proxy]( )
 * ##  [  	VPN]( )
 * ##  [ VPS]( )
