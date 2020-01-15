@@ -37,3 +37,9 @@
 
 ### + [ Prevent Social Engineering Attacks](https://github.com/sarathlalup/Security/blob/master/Network%20Security/README.md)
 
+### + [  	Assessments & Audits](https://github.com/sarathlalup/Security/blob/master/Malware%20Analysis/README.md)
+
+### + [  	Firewalls](https://github.com/sarathlalup/Security/blob/master/Malware%20Analysis/README.md)
+
+
+### + [  	Access Control](https://github.com/sarathlalup/Security/blob/master/Malware%20Analysis/README.md)
