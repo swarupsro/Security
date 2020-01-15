@@ -2,10 +2,10 @@
 <br />
 <p align="center">
   <a href="https://github.com/sarathlalup">
-    <img src="https://www.go2vanguard.com/wp-content/uploads/pentesting.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn0.iconfinder.com/data/icons/cybersecurity-glyph-silhouettes/300/22119111Untitled-3-512.png" alt="Logo" width="80" height="80">
    </a>
 
-  <h3 align="center">Defends</h3>
+  <h3 align="center">Defence</h3>
 
   <p align="center">
    This repository is intended for security and privacy : )
