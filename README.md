@@ -35,7 +35,7 @@
 
 ### + [  	Malware Analysis](https://github.com/sarathlalup/Security/blob/master/Malware%20Analysis/README.md)
 
-### + [ Prevent Social Engineering Attacks](https://github.com/sarathlalup/Security/blob/master/Network%20Security/README.md)
+### + [ Prevent Social Engineering](https://github.com/sarathlalup/Security/blob/master/Network%20Security/README.md)
 
 ### + [  	Assessments & Audits](https://github.com/sarathlalup/Security/blob/master/Malware%20Analysis/README.md)
 
